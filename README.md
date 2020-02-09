@@ -14,3 +14,5 @@ Release v1.0 corresponds to the code in the published book, without corrections 
 ## Contributions
 
 See the file Contributing.md for more information on how you can contribute to this repository.
+
+[![Run on Repl.it](https://repl.it/badge/github/awakwe/make-your-own-python-text-adventure)](https://repl.it/github/awakwe/make-your-own-python-text-adventure)
